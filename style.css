@@ -1,0 +1,25 @@
+body {
+    background-color:seagreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#header {
+    text-align: center
+}
+
+.button {
+    border-radius: 5px;
+    background-color: blueviolet;
+    margin-left: 2px;
+}
+
+.button:hover {
+    background-color: purple;
+}
+
+ul{
+    list-style-type: none;
+}
